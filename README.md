@@ -7,3 +7,5 @@ Issues for policies should have a title that matches the format _Action Provide
 ## Labels
 All labels should start with # and the label name should be Camel case (lower).
 
+# To create a innerlink
+[Visit Linkedin] (https://www.linkedin.com/)
