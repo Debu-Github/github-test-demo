@@ -7,3 +7,18 @@ Issues for policies should have a title that matches the format _Action Provide
 ## Labels
 All labels should start with # and the label name should be Camel case (lower).
 
+# To create a innerlink
+[Visit Linkedin] (https://www.linkedin.com/)
+
+# To create a innerline image
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+
+# To add blockquotes
+> "To get success, you must do hardwork"
+
+# To show list items
+* India
+* Pakistan
+* Bangladesh
+* HongKong
+
