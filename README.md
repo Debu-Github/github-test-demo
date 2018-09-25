@@ -33,3 +33,4 @@ All labels should start with # and the label name should be Camel case (lower)
 - India
 - Pakistan
 - Russia
+- Scotland
