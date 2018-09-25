@@ -32,3 +32,4 @@ All labels should start with # and the label name should be Camel case (lower)
 - HongKong
 - India
 - Pakistan
+- Russia
